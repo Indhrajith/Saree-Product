@@ -1,0 +1,11 @@
+# Ignore node_modules folder (packages installed via npm)
+node_modules/
+
+# Ignore Vite output folder (build files)
+dist/
+
+# Ignore environment variables (secrets, API keys)
+.env
+
+# Ignore editor settings folder (like VS Code)
+.vscode/
